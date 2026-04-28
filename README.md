@@ -2,7 +2,7 @@
 
 ```bash
 ┌──(d4v4n㉿github)-[~/profile]
-└─$ ./whoami.sh
+└─$ ./profile.sh
 
 [+] Identity
     Systems. Networks. Exploits. Defense.
