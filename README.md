@@ -25,6 +25,14 @@
     04. VoIP/SIP infrastructure and telecom security
     05. PostgreSQL, MariaDB, and secure data flows
     06. Automation, DevOps, and deployment pipelines
+
+[+] Mindset
+
+    I build systems that work beyond office hours:
+
+    automated, monitored, hardened, and designed to create value
+
+    even when I am not at the keyboard.
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00FF88&width=800&lines=Build+it.;Build+it.+Break+it.;Build+it.+Break+it.+Harden+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00FF88&width=900&lines=Build+it.;Break+it.;Harden+it.;Automate+it.;Let+systems+work+while+you+sleep.)](https://git.io/typing-svg)
