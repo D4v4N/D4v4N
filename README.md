@@ -27,12 +27,14 @@
     06. Automation, DevOps, and deployment pipelines
 
 [+] Mindset
-
     I build systems that work beyond office hours:
-
     automated, monitored, hardened, and designed to create value
-
     even when I am not at the keyboard.
+
+[+] Business impact
+    Turned software engineering, automation, and infrastructure work
+    into six-figure client revenue within 7 months.
+
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00FF88&width=900&lines=Build+it.;Break+it.;Harden+it.;Automate+it.;Let+systems+work+while+you+sleep.)](https://git.io/typing-svg)
